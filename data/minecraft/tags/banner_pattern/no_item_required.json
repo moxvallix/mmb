@@ -1,9 +1,22 @@
 {
   "values": [
     "mmb:blam",
+    "mmb:castle",
     "mmb:chequered",
+    "mmb:circle_tiles",
     "mmb:clubs",
+    "mmb:cogs",
+    "mmb:companion",
+    "mmb:crown",
     "mmb:fancy",
-    "mmb:sword"
+    "mmb:hearts",
+    "mmb:moon",
+    "mmb:palace",
+    "mmb:peace",
+    "mmb:pumpkin",
+    "mmb:spades",
+    "mmb:sun",
+    "mmb:sword",
+    "mmb:yin_yang"
   ]
 }

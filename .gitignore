@@ -1,0 +1,7 @@
+-*
+generator.js
+.directory
+*.kate-swp
+*.zip
+working/
+/data/bot/functions/debug/

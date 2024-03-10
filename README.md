@@ -1,38 +1,31 @@
 # Many More Banners
 A Minecraft Datapack / Resource Pack that adds many more banner patterns to the game.
+All added patterns will show up in the loom along side the vanilla patterns.
+
+Please note: this pack requires Minecraft Snapshot 24w10a or later to work.
+Its accompanying Resource Pack is also required.
 
 ## List of Patterns
-- Blam: A radial stripe pattern.
-- Chequered: A chequer-board pattern.
-- Clubs: A 'Clubs' playing card symbol.
-- Fancy: A fancy border, more rounded than 'Bordure Indented'.
-- Sword: An icon of a sword.
+So far, the pack contains 18 patterns.
 
-### Planned Patterns
-- Emerald
-- Ruby
-- Wolf Head
-- Villager Head
-- Axe
-- Trident
-- Bow
-- Dragon
-- Crossed Swords
-- Star
-- Sun
-- Moon
-- Sparkles
-- Snowflake
-- Crown
-- Castle
-- Tri-knot
-- Yin and Yang
-- Haz-chem Symbol
-- Pumpkin Face
-- Portal Swirls
-- Sakura Blossoms
-- Vines
-- Cobblestone
+- Blam: A radial stripe pattern.
+- Castle: A castle icon.
+- Chequered: A chequer-board pattern.
+- Circle Tiles: A tile pattern of circles.
+- Clubs: A 'Clubs' playing card symbol.
+- Cogs: A steam punk themed border.
+- Companion: A companion cube icon.
+- Crown: A crown icon.
+- Fancy: A fancy border, more rounded than 'Bordure Indented'.
+- Hearts: A 'Hearts' playing card symbol.
+- Moon: A crescent moon icon.
+- Palace: An icon of a palace, flying a flag.
+- Peace: A peace symbol.
+- Pumpkin: A carved pumpkin face.
+- Spades: A 'Spades' playing card symbol.
+- Sun: A sun icon.
+- Sword: An icon of a sword.
+- Yin and Yang: An icon of yin and yang.
 
 ## Contributing
 We are open to contributions! Open a Pull Request with your banner on [Github](https://github.com/moxvallix/mmb),
@@ -40,8 +33,8 @@ or DM your design to 'moxvallix' on Discord.
 
 Note: if we feel that your design doesn't fit with our banners, we may not end up adding it to the pack.
 
-If you want your pattern to be used, you must agree to license it as [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+If you want your pattern to be used, you must agree to license it as [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 
-[Many More Banners](https://github.com/moxvallix/mmb) © 2024 by [Moxvallix](https://moxvallix.com) is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/)
+[Many More Banners](https://github.com/moxvallix/mmb) © 2024 by [Moxvallix](https://moxvallix.com) is licensed under [CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 
-For individual attributions, see [ATTRIBUTIONS.txt](ATTRIBUTIONS.txt)
+For individual attributions, see [ATTRIBUTIONS.md](ATTRIBUTIONS.md).
