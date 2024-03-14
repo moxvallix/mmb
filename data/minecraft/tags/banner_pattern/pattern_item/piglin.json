@@ -1,0 +1,7 @@
+{
+  "_comment": "Patterns related to buildings / locations.",
+  "values": [
+    "mmb:castle",
+    "mmb:palace"
+  ]
+}

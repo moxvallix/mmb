@@ -1,0 +1,10 @@
+{
+  "_comment": "Patterns that are symbols, and misc patterns.",
+  "values": [
+    "mmb:clubs",
+    "mmb:diamonds",
+    "mmb:hearts",
+    "mmb:spades",
+    "mmb:companion"
+  ]
+}
