@@ -1,6 +1,7 @@
 {
   "_comment": "Patterns related to mobs.",
   "values": [
-    "mmb:blam"
+    "mmb:blam",
+    "mmb:ribs"
   ]
 }
