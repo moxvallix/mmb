@@ -58,11 +58,29 @@ All assets in this project are licensed as CC-BY-SA 4.0. The following is the li
 - shield/crown.png
   - Moxvallix
 
+- banner/curtains.png
+  - Wulfian
+
+- shield/curtains.png
+  - Wulfian
+
+- banner/diamonds.png
+  - Moxvallix
+
+- shield/diamonds.png
+  - Moxvallix
+
 - banner/fancy.png
   - Moxvallix
 
 - shield/fancy.png
   - Moxvallix
+
+- banner/hammer.png
+  - Wulfian
+
+- shield/hammer.png
+  - Wulfian
 
 - banner/hearts.png
   - Moxvallix
@@ -94,6 +112,24 @@ All assets in this project are licensed as CC-BY-SA 4.0. The following is the li
 - shield/pumpkin.png
   - Moxvallix
 
+- banner/revolution.png
+  - Wulfian
+
+- shield/revolution.png
+  - Wulfian
+
+- banner/ribs.png
+  - Wulfian
+
+- shield/ribs.png
+  - Wulfian
+
+- banner/shield.png
+  - Wulfian
+
+- shield/shield.png
+  - Wulfian
+
 - banner/spades.png
   - Moxvallix
 
@@ -111,6 +147,18 @@ All assets in this project are licensed as CC-BY-SA 4.0. The following is the li
 
 - shield/sword.png
   - Moxvallix
+
+- banner/tattered.png
+  - Wulfian
+
+- shield/tattered.png
+  - Wulfian
+
+- banner/trident.png
+  - Wulfian
+
+- shield/trident.png
+  - Wulfian
 
 - banner/yin_yang.png
   - Wulfian
