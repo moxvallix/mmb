@@ -34,6 +34,7 @@ Added new banner patterns, and patterns are now categorised.
   - See [README.md](README.md) for each pattern's category.
 
 ### Fixed
+- Removed stray pixel on the 'Peace' icon pattern.
 - Removed excess pixels from the 'Fancy' border pattern.
 
 ## [0.1.0] - 2024-03-10
