@@ -10,6 +10,12 @@ All assets in this project are licensed as CC-BY-SA 4.0. The following is the li
   - https://github.com/wulfian
 
 ## Images
+- banner/anchor.png:
+  - Wulfian
+
+- shield/anchor.png:
+  - Wulfian
+
 - banner/blam.png:
   - Moxvallix
 
@@ -70,6 +76,12 @@ All assets in this project are licensed as CC-BY-SA 4.0. The following is the li
 - shield/diamonds.png
   - Moxvallix
 
+- banner/eye.png:
+  - Wulfian
+
+- shield/eye.png:
+  - Wulfian
+
 - banner/fancy.png
   - Moxvallix
 
@@ -88,6 +100,12 @@ All assets in this project are licensed as CC-BY-SA 4.0. The following is the li
 - shield/hearts.png
   - Moxvallix
 
+- banner/horn.png:
+  - Wulfian
+
+- shield/horn.png:
+  - Wulfian
+
 - banner/moon.png
   - Wulfian
 
@@ -104,6 +122,12 @@ All assets in this project are licensed as CC-BY-SA 4.0. The following is the li
   - Wulfian
 
 - shield/peace.png
+  - Wulfian
+
+- banner/pillager.png:
+  - Wulfian
+
+- shield/pillager.png:
   - Wulfian
 
 - banner/pumpkin.png
@@ -158,6 +182,12 @@ All assets in this project are licensed as CC-BY-SA 4.0. The following is the li
   - Wulfian
 
 - shield/trident.png
+  - Wulfian
+
+- banner/villager.png:
+  - Wulfian
+
+- shield/villager.png:
   - Wulfian
 
 - banner/yin_yang.png

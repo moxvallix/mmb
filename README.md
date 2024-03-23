@@ -6,7 +6,7 @@ Please note: this pack requires Minecraft Snapshot 24w10a or later to work.
 Its accompanying Resource Pack is also required.
 
 ## List of Patterns
-So far, the pack contains 26 patterns, split in to 7 categories.
+So far, the pack contains 31 patterns, split in to 7 categories.
 
 ### Base
 These patterns don't need a Banner Pattern to be applied.  
@@ -23,6 +23,8 @@ These patterns require the 'Creeper Charge' Banner Pattern.
 This category contains patterns related to mobs.
 - Blam: A radial stripe pattern.
 - Ribs: A skeletal / rib-like border pattern.
+- Pillager: The face of a Pillager.
+- Villager: The face of a Villager.
 
 ### Flower
 These patterns require the 'Flower Charge' Banner Pattern.  
@@ -36,6 +38,7 @@ This category contains patterns related to nature and harmony.
 These patterns require the 'Globe' Banner Pattern.  
 This category contains patterns related to items and blocks.
 - Pumpkin: A carved pumpkin face.
+- Horn: A goat horn.
 
 ### Thing
 These patterns require the 'Thing' Banner Pattern.  
@@ -44,6 +47,8 @@ This category contains patterns that are symbols, as well as miscellaneous patte
 - Diamonds: A 'Diamonds' playing card symbol.
 - Hearts: A 'Hearts' playing card symbol.
 - Spades: A 'Spades' playing card symbol.
+- Anchor: An anchor icon.
+- Eye: A human eye icon.
 - Companion: A companion cube icon.
 - Revolution: An icon of a fist raised in a revolutionary pose.
 
