@@ -76,6 +76,12 @@ All assets in this project are licensed as CC-BY-SA 4.0. The following is the li
 - shield/diamonds.png
   - Moxvallix
 
+- banner/emoji.png:
+  - Wulfian
+
+- shield/emoji.png:
+  - Wulfian
+
 - banner/eye.png:
   - Wulfian
 
@@ -87,6 +93,12 @@ All assets in this project are licensed as CC-BY-SA 4.0. The following is the li
 
 - shield/fancy.png
   - Moxvallix
+
+- banner/ghast.png:
+  - Wulfian
+
+- shield/ghast.png:
+  - Wulfian
 
 - banner/hammer.png
   - Wulfian
@@ -104,6 +116,12 @@ All assets in this project are licensed as CC-BY-SA 4.0. The following is the li
   - Wulfian
 
 - shield/horn.png:
+  - Wulfian
+
+- banner/knot.png:
+  - Wulfian
+
+- shield/knot.png:
   - Wulfian
 
 - banner/moon.png
@@ -135,6 +153,12 @@ All assets in this project are licensed as CC-BY-SA 4.0. The following is the li
 
 - shield/pumpkin.png
   - Moxvallix
+
+- banner/pyramid.png:
+  - Wulfian
+
+- shield/pyramid.png:
+  - Wulfian
 
 - banner/revolution.png
   - Wulfian
@@ -176,6 +200,12 @@ All assets in this project are licensed as CC-BY-SA 4.0. The following is the li
   - Wulfian
 
 - shield/tattered.png
+  - Wulfian
+
+- banner/tower.png:
+  - Wulfian
+
+- shield/tower.png:
   - Wulfian
 
 - banner/trident.png

@@ -6,7 +6,7 @@ Please note: this pack requires Minecraft Snapshot 24w10a or later to work.
 Its accompanying Resource Pack is also required.
 
 ## List of Patterns
-So far, the pack contains 31 patterns, split in to 7 categories.
+So far, the pack contains 36 patterns, split in to 7 categories.
 
 ### Base
 These patterns don't need a Banner Pattern to be applied.  
@@ -25,6 +25,7 @@ This category contains patterns related to mobs.
 - Ribs: A skeletal / rib-like border pattern.
 - Pillager: The face of a Pillager.
 - Villager: The face of a Villager.
+- Ghast: Front-on image of a ghast.
 
 ### Flower
 These patterns require the 'Flower Charge' Banner Pattern.  
@@ -33,6 +34,7 @@ This category contains patterns related to nature and harmony.
 - Peace: A peace symbol.
 - Sun: A sun icon.
 - Yin and Yang: An icon of yin and yang.
+- Knot: A celtic knot icon.
 
 ### Globe
 These patterns require the 'Globe' Banner Pattern.  
@@ -51,12 +53,15 @@ This category contains patterns that are symbols, as well as miscellaneous patte
 - Eye: A human eye icon.
 - Companion: A companion cube icon.
 - Revolution: An icon of a fist raised in a revolutionary pose.
+- Emoji: An icon of a smiley face.
 
 ### Snout
 These patterns require the 'Snout' Banner Pattern.  
 This category contains patterns related to places and buildings.
 - Castle: A castle icon.
 - Palace: An icon of a palace, flying a flag.
+- Pyramid: A desert pyramid.
+- Tower: A tower icon.
 
 ### Skull
 These patterns require the 'Skull Charge' Banner Pattern.  
