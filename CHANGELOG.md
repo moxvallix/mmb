@@ -5,6 +5,23 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.2.3] - 2024-06-06
+Improved pack.mcmeta files and added proper texturing to the borders of seven banner patterns.
+
+### Changed
+- pack.mcmeta files now use the "supported_formats" object to introduce support of a range of versions.
+- Data Pack version is now 34 - 999.
+- Resource Pack version is now 28 - 999.
+
+### Fixed
+- Fix borders of the Blam banner pattern
+- Fix borders of the Circle Tiles banner pattern
+- Fix borders of the Cogs banner pattern
+- Fix borders of the Curtains banner pattern
+- Fix borders of the Fancy banner pattern
+- Fix borders of the Ribs banner pattern
+- Fix borders of the Tattered banner pattern
+
 ## [0.2.2] - 2024-04-25
 Added 5 new banner patterns.
 

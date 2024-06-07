@@ -9,6 +9,10 @@ All assets in this project are licensed as CC-BY-SA 4.0. The following is the li
 - Wulfian
   - https://github.com/wulfian
 
+## Contributors
+- Owehttamy
+  - https://github.com/Owehttamy
+
 ## Images
 - banner/anchor.png:
   - Wulfian
