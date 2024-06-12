@@ -1,0 +1,10 @@
+{
+   "pack": {
+      "pack_format": 28,
+         "supported_formats": {
+            "min_inclusive": 28,
+            "max_inclusive": 999
+         },
+      "description": "Many More Banners\nBy Moxvallix and Wulfian"
+   }
+}
