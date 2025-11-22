@@ -6,7 +6,7 @@ Please note: this pack requires Minecraft Snapshot 24w10a or later to work.
 Its accompanying Resource Pack is also required.
 
 ## List of Patterns
-So far, the pack contains 36 patterns, split in to 7 categories.
+So far, the pack contains 38 patterns, split in to 7 categories.
 
 ### Base
 These patterns don't need a Banner Pattern to be applied.  
@@ -15,6 +15,8 @@ This category contains basic patterns and borders.
 - Circle Tiles: A tile pattern of circles.
 - Cogs: A steam punk themed border.
 - Curtains: A fancy curtain border.
+- Double Bars: Two vertical bars either side of the banner.
+- Double Gradient: Two gradients, starting from top to bottom going from light to dark.
 - Fancy: A fancy border, more rounded than 'Bordure Indented'.
 - Tattered: A pattern reminiscent of a tattered banner.
 

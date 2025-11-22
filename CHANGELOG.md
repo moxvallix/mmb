@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.2.4] - 2025-11-22
+Fixed pack.mcmeta for new versions and added two new patterns.
+
+### Added
+- Double Bars: Two vertical bars either side of the banner.
+- Double Gradient: Two gradients, starting from top to bottom going from light to dark.
+
+### Changed
+- Added some required fields to pack.mcmeta for newer versions of the game.
+
 ## [0.2.3] - 2024-06-06
 Improved pack.mcmeta files and added proper texturing to the borders of seven banner patterns.
 
@@ -14,13 +24,13 @@ Improved pack.mcmeta files and added proper texturing to the borders of seven ba
 - Resource Pack version is now 28 - 999.
 
 ### Fixed
-- Fix borders of the Blam banner pattern
-- Fix borders of the Circle Tiles banner pattern
-- Fix borders of the Cogs banner pattern
-- Fix borders of the Curtains banner pattern
-- Fix borders of the Fancy banner pattern
-- Fix borders of the Ribs banner pattern
-- Fix borders of the Tattered banner pattern
+- Fix borders of the Blam banner pattern.
+- Fix borders of the Circle Tiles banner pattern.
+- Fix borders of the Cogs banner pattern.
+- Fix borders of the Curtains banner pattern.
+- Fix borders of the Fancy banner pattern.
+- Fix borders of the Ribs banner pattern.
+- Fix borders of the Tattered banner pattern.
 
 ## [0.2.2] - 2024-04-25
 Added 5 new banner patterns.

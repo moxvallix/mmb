@@ -12,6 +12,8 @@ All assets in this project are licensed as CC-BY-SA 4.0. The following is the li
 ## Contributors
 - Owehttamy
   - https://github.com/Owehttamy
+- Zyqwx
+  - https://github.com/Zyqwyx
 
 ## Images
 - banner/anchor.png:
@@ -79,6 +81,18 @@ All assets in this project are licensed as CC-BY-SA 4.0. The following is the li
 
 - shield/diamonds.png
   - Moxvallix
+
+- banner/double_bars.png
+  - Zyqwx
+
+- shield/double_bars.png
+  - Zyqwx
+
+- banner/double_gradient.png
+  - Zyqwx
+
+- shield/double_gradient.png
+  - Zyqwx
 
 - banner/emoji.png:
   - Wulfian
